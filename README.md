@@ -27,6 +27,9 @@ A Power BI dashboard to analyze pizza sales with insights on total sales, revenu
 
 ## Conclusion
 This dashboard provides actionable insights into pizza sales. Future improvements can include predictive analytics and real-time data integration.
+#Screenshot
+![Dashboard Preview](C:/Users/Dell/Desktop/All data Analyst project 2025/Pizza Sales/image/pizza.png)
+
 
 ## Author
 Sital Kumar Jagri
